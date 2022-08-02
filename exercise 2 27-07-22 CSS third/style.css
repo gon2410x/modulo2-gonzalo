@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+
+h1{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+h3{
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+section{
+    width: 500px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.centrar-button-crear-cuenta{
+    text-align: center;
+}
+
+legend{
+    font-weight: bold;
+}
+
+label{
+    font-weight: bold;
+    font-size: small;
+}

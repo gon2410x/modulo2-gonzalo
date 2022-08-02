@@ -1,0 +1,13 @@
+h1{
+    color: rgba(0, 76, 255, 0.875);
+    letter-spacing: 0.1px;
+    font-size: 30px;
+    font-family: /* 'Perpetua','Algerian', *//* 'Modern N° 20', */'Cormorant SC'/* ,'Courier New', Courier, monospace */;  
+    background-color: rgba(195, 190, 190, 0.915);
+}
+
+h2 {
+    color: brown;
+    letter-spacing: 10px;
+    font-family: 'Cormorant SC';
+}
